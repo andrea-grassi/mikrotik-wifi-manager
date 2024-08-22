@@ -44,7 +44,7 @@ Before running this application, make sure your system is set up with the follow
 
 ## How to Run the Application
 
-1. **Clone the Repository**:
+1. **Clone the Repository (complete project) or download only mikrotik-wifi-manager.py**:
 
    - Open your terminal and run:
      ```bash
